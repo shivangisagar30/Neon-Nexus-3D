@@ -2,6 +2,10 @@
 
 This repository contains an interactive single-page TechFest website built with HTML, CSS, and JavaScript.
 
+## 🌐 Live Demo
+
+https://shivangisagar30.github.io/Neon-Nexus-3D/
+
 ## Files
 
 - `techfest-3d.html` — the main interactive landing page.
